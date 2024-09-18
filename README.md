@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Senior Web Engineer/Technical Architect, based in Ottawa, Ontario, Canada. I have almost 20 years of web development experience over various programming languages, having specialized in WordPress for the past 12 years. I work within the full-stack, including modern CSS (custom properties, PostCSS, CSS Grid), object-oriented PHP, and have a solid understanding of database optimization and DevOps (specifically CI/CD).
+I am a Senior Solutions Architect, based in Ottawa, Ontario, Canada. I have almost 20 years of web development experience over various programming languages, having specialized in WordPress for the past 12 years. I work within the full-stack, including modern CSS (custom properties, PostCSS, CSS Grid), object-oriented PHP, and have a solid understanding of database optimization and DevOps (specifically CI/CD).
 
 I've architected multiple WordPress sites, from the simplest brochure website, to a 2800+ WordPress Multisite network. Being Canadian, I have extensive experience with multilingual plugins. I've also developed plugins that interface with 3rd party APIs, and written extensive custom WP-CLI commands. 
 
