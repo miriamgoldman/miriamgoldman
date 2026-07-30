@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**NOTE** My more recent repositories with relevant code are currently private. Please get in touch if you are interested in viewing them. 
 
 ## About Me
 
